@@ -5,7 +5,7 @@
 2. Apply K-Means on the dataset to partition the dataset into K partitions
 3. Apply DBSCAN on each partition separately
 4. Plot the following:
-..* The dataset before any clustering
-..* Result of K-Means clustering
-..* Result of DBSCAN
-..* The dense regions
+⋅⋅* The dataset before any clustering
+⋅⋅* Result of K-Means clustering
+⋅⋅* Result of DBSCAN
+⋅⋅* The dense regions
